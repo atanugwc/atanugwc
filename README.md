@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&preferLogin=false">    <img  alt="atanugwc's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/atanugwc?cardType=github&theme=github-dark&preferLogin=false" />  </a>
 <!--
 **atanugwc/atanugwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
